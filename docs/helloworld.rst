@@ -25,7 +25,6 @@ Our first step will be to set up a skeleton application as a starting point for 
 #. Copy the following into your main.cpp file:
 
 .. code-block:: c++
-   :linenos:
 
    #include <astra/astra.hpp>
 
